@@ -9,7 +9,6 @@
 
 ## ③DEMO
 https://tamachan99.sakura.ne.jp/cheese/#
-デプロイしている場合はURLを記入（任意）
 
 ## ④工夫した点・こだわった点
 
